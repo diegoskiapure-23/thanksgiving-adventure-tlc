@@ -1,0 +1,8 @@
+{
+  "name": "thanksgiving-adventure-tlc",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mobile-first Thanksgiving Adventure for The Language College",
+  "scripts": {"start": "node server.js"},
+  "dependencies": {"express": "^4.21.2"}
+}
